@@ -1,7 +1,7 @@
-Name:
+Name: Cyan
 
-Course:
+Course: Computer inginir
 
-Section:
+Section: T09 A
 
-Minecraft:
+Minecraft: yes? ahhahahaha
